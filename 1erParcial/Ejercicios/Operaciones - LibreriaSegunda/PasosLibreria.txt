@@ -1,0 +1,4 @@
+el usar "operaciones.h" significa que la libreria está en la misma carpeta
+
+para poder usar <operaciones.h> significa que está en una carpeta donde está el compilador
+llamada "include" para llamarla desde cualquier carpeta
